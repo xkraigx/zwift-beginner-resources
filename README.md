@@ -44,6 +44,7 @@ See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https
 - [How to Race on Zwift (Setup, Strategy,...)](https://zwiftinsider.com/how-to-race/) (Zwift Insider)
 - [Official platform for racing results](https://zwiftpower.com/)
 - (TODO) https://zwiftinsider.com/zwift-drafting/
+- (TODO) [Race Tactics](https://www.reddit.com/r/Zwift/comments/df7s73/finished_my_first_race_excited_to_learn_more_race/)
 
 ### Workouts
 
@@ -79,6 +80,7 @@ TODO
 - (TODO) https://titaniumgeek.com/zwift-user-manual-unofficial-running-updates/
 - (TODO) https://kb.zwiftriders.com/
 - (TODO) https://www.facebook.com/groups/zwiftCoders/
+- (TODO) https://www.reddit.com/r/Zwift/
 
 ## 🔧 Troubleshooting
 
