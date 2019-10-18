@@ -1,3 +1,8 @@
-remote_theme: mmistakes/minimal-mistakes@4.17.1
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
 plugins:
-  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-remote-theme
