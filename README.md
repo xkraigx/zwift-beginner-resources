@@ -9,22 +9,22 @@ This list of resources might help! 🚴🏻‍♂️📚
 
 See up-to-date list of compatible Direct Drive trainers on [the Zwift Website](https://support.zwift.com/en_us/direct-drive-trainers-B1oH2meS).
 
-- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS)
-- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer)
-- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB)
-- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS)
+- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
+- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
+- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
+- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
 
 ### Wheel-on Trainers
 
 See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https://support.zwift.com/en_us/wheel-on-trainers-r1B5nQWxS).
 
-- [Pairing a Bkool Trainer](https://support.zwift.com/en_us/pairing-a-bkool-trainer-HyQ4FVZeS)
-- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS)
-- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer)
-- [Pairing a Kinetic inRide](https://support.zwift.com/en_us/pairing-a-kinetic-inride-HJPO5VWgB)
-- [Pairing a Computrainer Trainer](https://support.zwift.com/en_us/pairing-a-computrainer-trainer-r1m75EZlS)
-- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB)
-- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS)
+- [Pairing a Bkool Trainer](https://support.zwift.com/en_us/pairing-a-bkool-trainer-HyQ4FVZeS) (Zwift)
+- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
+- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
+- [Pairing a Kinetic inRide](https://support.zwift.com/en_us/pairing-a-kinetic-inride-HJPO5VWgB) (Zwift)
+- [Pairing a Computrainer Trainer](https://support.zwift.com/en_us/pairing-a-computrainer-trainer-r1m75EZlS) (Zwift)
+- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
+- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
 
 ## 📆 Course Calendar, Maps & Routes
 
@@ -37,22 +37,23 @@ See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https
 ### Events
 
 - [List of all events w/ filters](https://zwifthacks.com/app/events/) (ZwiftHacks)
-- [Official Zwift Events Page](https://zwift.com/events/)
+- [Official Zwift Events Page](https://zwift.com/events/) (Zwift)
 
 ### Racing on Zwift
 
 - [How to Race on Zwift (Setup, Strategy,...)](https://zwiftinsider.com/how-to-race/) (Zwift Insider)
-- [Official platform for racing results](https://zwiftpower.com/)
-- (TODO) https://zwiftinsider.com/zwift-drafting/
-- (TODO) [Race Tactics](https://www.reddit.com/r/Zwift/comments/df7s73/finished_my_first_race_excited_to_learn_more_race/)
+- [Official platform for racing results](https://zwiftpower.com/) (Zwift Power)
+- [Drafting in Zwift: Power Savings and Advice](https://zwiftinsider.com/zwift-drafting/) (Zwift Insider)
+- [Race Tactics](https://www.reddit.com/r/Zwift/comments/df7s73/finished_my_first_race_excited_to_learn_more_race/) (Reddit)
 
 ### Workouts
 
-TODO
+- (TODO) https://whatsonzwift.com/workouts/
+- (TODO) https://whatsonzwift.com/group-workouts/
 
 ## 🍄 Power-ups, Bikes & Wheels
 
-- (TODO) https://zwiftinsider.com/powerups/
+- [Your Guide to PowerUps in Zwift](https://zwiftinsider.com/powerups/) (Zwift Insider)
 - (TODO) https://zwiftinsider.com/5-fastest-bikes/
 - (TODO) https://zwiftinsider.com/fastest-frames/
 - (TODO) https://zwiftinsider.com/fastest-tt-climbing-frames/
@@ -64,13 +65,14 @@ TODO
 
 ## ⌨️ Keyboard Shortcuts & Companion App
 
-TODO
+(TODO)
 
 ## 🔨 3rd Party Tools
 
 - (TODO) https://zwifthacks.com/zwiftpref/
 - (TODO) https://www.zwiftgps.com
 - (TODO) https://zwifthacks.com/zwiftmap/
+- (TODO) https://whatsonzwift.com/convert/
 
 ## 🔗 Other Useful Links
 
@@ -84,7 +86,7 @@ TODO
 
 ## 🔧 Troubleshooting
 
-TODO
+(TODO)
 
 ## 🚧 Work In Progress
 
@@ -96,7 +98,7 @@ TODO
 
 ## 🤝 Contributing
 
-Feel from to open an issue or a pull request to suggest changes or additions.
+Feel from to open an issue or a pull request to suggest changes or additions at [https://github.com/xkraigx/zwift-beginner-resources](https://github.com/xkraigx/zwift-beginner-resources).
 
 ## 📝 License
 
