@@ -48,20 +48,21 @@ See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https
 
 ### Workouts
 
-- (TODO) https://whatsonzwift.com/workouts/
-- (TODO) https://whatsonzwift.com/group-workouts/
+- [Workouts and training plans](https://whatsonzwift.com/workouts/) (What's on Zwift?)
+- [Group workout events](https://whatsonzwift.com/group-workouts/) (What's on Zwift?)
 
 ## 🍄 Power-ups, Bikes & Wheels
 
+- [Regularly updated Speed Tests](https://zwiftinsider.com/category/tips/equipment/speed-tests/) (Zwift Insider)
 - [Your Guide to PowerUps in Zwift](https://zwiftinsider.com/powerups/) (Zwift Insider)
-- (TODO) https://zwiftinsider.com/5-fastest-bikes/
-- (TODO) https://zwiftinsider.com/fastest-frames/
-- (TODO) https://zwiftinsider.com/fastest-tt-climbing-frames/
-- (TODO) https://zwiftinsider.com/fastest-bike-frames-for-climbing/
-- (TODO) https://zwiftinsider.com/fastest-bike-alpe/
-- (TODO) https://zwiftinsider.com/9-fastest-wheels-for-climbers/
-- (TODO) https://zwiftinsider.com/fastest-wheelsets/
-- (TODO) https://zwiftinsider.com/fastest-framesold/
+- [The 5 Fastest Bikes in Zwift (and How to Get Them)](https://zwiftinsider.com/5-fastest-bikes/) (Zwift Insider)
+- [Zwift’s Fastest Bike Frames for Flat/Rolling Races](https://zwiftinsider.com/fastest-frames/) (Zwift Insider)
+- [Zwift’s Fastest TT Bike Frames for Climbing Races](https://zwiftinsider.com/fastest-tt-climbing-frames/) (Zwift Insider)
+- [Zwift’s Fastest Bike Frames for Climbing](https://zwiftinsider.com/fastest-bike-frames-for-climbing/) (Zwift Insider)
+- [Fastest Frame and Wheelset for Climbing Alpe du Zwift](https://zwiftinsider.com/fastest-bike-alpe/) (Zwift Insider)
+- [Zwift’s 9 Fastest Wheels for Climbing](https://zwiftinsider.com/9-fastest-wheels-for-climbers/) (Zwift Insider)
+- [Zwift’s 6 Fastest Wheelsets](https://zwiftinsider.com/fastest-wheelsets/) (Zwift Insider)
+- [Zwift’s Fastest Bike Frames for Flat/Rolling Races](https://zwiftinsider.com/fastest-framesold/) (Zwift Insider)
 
 ## ⌨️ Keyboard Shortcuts & Companion App
 
