@@ -45,6 +45,7 @@ See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https
 - [Official platform for racing results](https://zwiftpower.com/) (Zwift Power)
 - [Drafting in Zwift: Power Savings and Advice](https://zwiftinsider.com/zwift-drafting/) (Zwift Insider)
 - [Race Tactics](https://www.reddit.com/r/Zwift/comments/df7s73/finished_my_first_race_excited_to_learn_more_race/) (Reddit)
+- [Using Discord on Zwift](https://zwiftinsider.com/using-discord) (Zwift Insider)
 
 ### Workouts
 
@@ -62,7 +63,7 @@ See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https
 - [Fastest Frame and Wheelset for Climbing Alpe du Zwift](https://zwiftinsider.com/fastest-bike-alpe/) (Zwift Insider)
 - [Zwift’s 9 Fastest Wheels for Climbing](https://zwiftinsider.com/9-fastest-wheels-for-climbers/) (Zwift Insider)
 - [Zwift’s 6 Fastest Wheelsets](https://zwiftinsider.com/fastest-wheelsets/) (Zwift Insider)
-- [Zwift’s Fastest Bike Frames for Flat/Rolling Races](https://zwiftinsider.com/fastest-framesold/) (Zwift Insider)
+- [Zwift Speed Test Charts: Wheel Rankings](https://zwiftinsider.com/charts-wheels/) (Zwift Insider)
 
 ## ⌨️ Keyboard Shortcuts & Companion App
 
