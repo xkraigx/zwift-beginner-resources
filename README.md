@@ -3,29 +3,6 @@
 Just decided to get Zwifting and you don't know where to start?
 This list of resources might help! 🚴🏻‍♂️📚
 
-## ⚙️ Trainers Setup
-
-### Direct Drive Trainers
-
-See up-to-date list of compatible Direct Drive trainers on [the Zwift Website](https://support.zwift.com/en_us/direct-drive-trainers-B1oH2meS).
-
-- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
-- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
-- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
-- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
-
-### Wheel-on Trainers
-
-See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https://support.zwift.com/en_us/wheel-on-trainers-r1B5nQWxS).
-
-- [Pairing a Bkool Trainer](https://support.zwift.com/en_us/pairing-a-bkool-trainer-HyQ4FVZeS) (Zwift)
-- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
-- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
-- [Pairing a Kinetic inRide](https://support.zwift.com/en_us/pairing-a-kinetic-inride-HJPO5VWgB) (Zwift)
-- [Pairing a Computrainer Trainer](https://support.zwift.com/en_us/pairing-a-computrainer-trainer-r1m75EZlS) (Zwift)
-- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
-- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
-
 ## 📆 Course Calendar, Maps & Routes
 
 - [Courses Calendar](https://zwiftinsider.com/schedule/) (Zwift Insider)
@@ -41,9 +18,11 @@ See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https
 
 ### Racing on Zwift
 
-- [How to Race on Zwift (Setup, Strategy,...)](https://zwiftinsider.com/how-to-race/) (Zwift Insider)
 - [Official platform for racing results](https://zwiftpower.com/) (Zwift Power)
+- [How to Race on Zwift (Setup, Strategy,...)](https://zwiftinsider.com/how-to-race/) (Zwift Insider)
 - [Drafting in Zwift: Power Savings and Advice](https://zwiftinsider.com/zwift-drafting/) (Zwift Insider)
+- [Use the Draft to Your Advantage](https://zwift.com/news/15937-zwift-how-to-use-the-draft-to-your-advantage) (Zwift Insider)
+- [5 Advanced Zwift Racing Tips](https://zwiftinsider.com/5-advanced-zwift-racing-tips/) (Zwift Insider)
 - [Race Tactics](https://www.reddit.com/r/Zwift/comments/df7s73/finished_my_first_race_excited_to_learn_more_race/) (Reddit)
 - [Using Discord on Zwift](https://zwiftinsider.com/using-discord) (Zwift Insider)
 
@@ -86,14 +65,35 @@ See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https
 - (TODO) https://www.facebook.com/groups/zwiftCoders/
 - (TODO) https://www.reddit.com/r/Zwift/
 
+## ⚙️ Trainers Setup
+
+### Direct Drive Trainers
+
+See up-to-date list of compatible Direct Drive trainers on [the Zwift Website](https://support.zwift.com/en_us/direct-drive-trainers-B1oH2meS).
+
+- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
+- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
+- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
+- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
+
+### Wheel-on Trainers
+
+See up-to-date list of compatible Wheel-on trainers on [the Zwift Website](https://support.zwift.com/en_us/wheel-on-trainers-r1B5nQWxS).
+
+- [Pairing a Bkool Trainer](https://support.zwift.com/en_us/pairing-a-bkool-trainer-HyQ4FVZeS) (Zwift)
+- [Pairing a CycleOps Trainer](https://support.zwift.com/en_us/pairing-a-cycleops-trainer-Hyx5XVZxS) (Zwift)
+- [Pairing Elite® Trainers](https://support.zwift.com/en_us/pairing-elite-trainers-HJoxNNZer) (Zwift)
+- [Pairing a Kinetic inRide](https://support.zwift.com/en_us/pairing-a-kinetic-inride-HJPO5VWgB) (Zwift)
+- [Pairing a Computrainer Trainer](https://support.zwift.com/en_us/pairing-a-computrainer-trainer-r1m75EZlS) (Zwift)
+- [Tacx Trainer](https://support.zwift.com/en_us/tacx-trainer-SyxYB4bxB) (Zwift)
+- [Configuring a Wahoo Trainer](https://support.zwift.com/en_us/configuring-a-wahoo-trainer-H1tQONZlS) (Zwift)
+
 ## 🔧 Troubleshooting
 
-(TODO)
+- [Retrieve a Lost or Partial Ride File](https://zwiftinsider.com/retrieve-lost-ride/) (Zwift Insider)
 
 ## 🚧 Work In Progress
 
-- Complete TODO sections
-- Add links to existing sections
 - Update text for more clarity about some of the links
 - Add Indoor Bikes and Rollers to trainers section
 - Add links to detailed Route descriptions on Zwift Insider
